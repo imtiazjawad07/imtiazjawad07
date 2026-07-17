@@ -1,13 +1,13 @@
 # Hi, I'm Imtiaz 👋
 
-💻 CSE Student | 🐧 Linux Enthusiast | 🛠️ IT Support & CCTV Technician  
+💻 Diploma in CST | 🐧 Linux Enthusiast | 🛠️ IT Support & CCTV Technician  
 📍 Dhaka, Bangladesh
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying CSE (Computer Science & Engineering)
+- 🎓 Diploma in Engineering — Computer Science & Technology (CST)
 - 🔴 Learning **RHCSA/RHCE** at People N Tech
 - 🌐 Passionate about **Linux, Networking & IT Infrastructure**
 - 🚀 Always learning, always building
@@ -78,10 +78,10 @@
   <img src="https://streak-stats.demolab.com?user=imtiazjawad07&theme=radical" height="150"/>
 </p>
 
-
 ---
 
 ## 📫 Contact
 
 - 📍 Location: Dhaka, Bangladesh
 - 💼 Open to opportunities in IT Support & Linux Administration
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-imtiaz-jawad)
