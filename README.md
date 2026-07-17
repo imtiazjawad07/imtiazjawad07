@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Imtiaz 👋
+
+🎓 CST Student from Dhaka, Bangladesh
+🔴 Learning RHCSA/RHCE at People N Tech
+🌐 Interested in Linux & Networking
+
+## 🛠️ Currently Learning
+- Linux Server Administration
+- RHCSA/RHCE
+- Networking & CCNA
+
+## 📫 Contact
+- Location: Dhaka, Bangladesh
 
 <!--
 **imtiazjawad07/imtiazjawad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
