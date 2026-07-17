@@ -34,9 +34,11 @@
 
 ## 📊 GitHub Stats
 
+[
 
+![GitHub Streak](https://streak-stats.demolab.com?user=imtiazjawad07&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiazjawad07&show_icons=true&theme=radical)
+](https://git.io/streak-stats)
 
 
 
